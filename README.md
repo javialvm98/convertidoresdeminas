@@ -1,2 +1,2 @@
 # convertidoresdeminas
-Probando 2
+Probando
